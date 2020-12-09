@@ -1,0 +1,13 @@
+C:\Users\Josue\Desktop\proyectoo\bin\Debug\netcoreapp3.1\proyectoo.exe
+C:\Users\Josue\Desktop\proyectoo\bin\Debug\netcoreapp3.1\proyectoo.deps.json
+C:\Users\Josue\Desktop\proyectoo\bin\Debug\netcoreapp3.1\proyectoo.runtimeconfig.json
+C:\Users\Josue\Desktop\proyectoo\bin\Debug\netcoreapp3.1\proyectoo.runtimeconfig.dev.json
+C:\Users\Josue\Desktop\proyectoo\bin\Debug\netcoreapp3.1\proyectoo.dll
+C:\Users\Josue\Desktop\proyectoo\bin\Debug\netcoreapp3.1\proyectoo.pdb
+C:\Users\Josue\Desktop\proyectoo\obj\Debug\netcoreapp3.1\proyectoo.csprojAssemblyReference.cache
+C:\Users\Josue\Desktop\proyectoo\obj\Debug\netcoreapp3.1\proyectoo.AssemblyInfoInputs.cache
+C:\Users\Josue\Desktop\proyectoo\obj\Debug\netcoreapp3.1\proyectoo.AssemblyInfo.cs
+C:\Users\Josue\Desktop\proyectoo\obj\Debug\netcoreapp3.1\proyectoo.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Desktop\proyectoo\obj\Debug\netcoreapp3.1\proyectoo.dll
+C:\Users\Josue\Desktop\proyectoo\obj\Debug\netcoreapp3.1\proyectoo.pdb
+C:\Users\Josue\Desktop\proyectoo\obj\Debug\netcoreapp3.1\proyectoo.genruntimeconfig.cache
